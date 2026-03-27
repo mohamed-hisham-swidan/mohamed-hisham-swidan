@@ -1,52 +1,55 @@
 <div align="center">
   <a href="https://github.com/mohamed-hisham-swidan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=31A8FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Mohamed+Hisham+Swidan+👋;Welcome+to+my+Official+GitHub!;PC+Hardware+Enthusiast+⚙️;Aspiring+Python+Developer+🐍;Always+Learning+New+Things+🧠" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=31A8FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Mohamed+Hisham+Swidan+👋;Tech+%26+PC+Hardware+Enthusiast+⚙️;Aspiring+Python+Developer+🐍;Always+Learning+New+Things+🧠" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="250" alt="Animated Aesthetic" />
 </div>
 
----
+<br>
 
-### 👨‍💻 Who Am I? (مين أنا؟)
+### 👨‍💻 About Me
 <div align="left">
-  Hello! I'm a student and tech enthusiast from Egypt. I have a deep curiosity for how things work under the hood, from software to physical components. 
+  Hello! I am a student and technology enthusiast based in Egypt. I have a profound curiosity for understanding how systems operate under the hood, from software logic to physical hardware components.
   <br><br>
-  🌱 <b>Currently Learning:</b> I'm taking my first solid steps into programming with <b>Python</b>, trying to understand the logic and build a strong foundation.
+  🌱 <b>Currently Learning:</b> Taking solid steps into software development with <b>Python</b>, focusing on building a strong foundational understanding of programming logic.
   <br>
-  ⚙️ <b>Hardware Geek:</b> I love exploring PC Hardware. I enjoy understanding how different parts connect, perform, and how to push them to their limits!
+  ⚙️ <b>Hardware Enthusiast:</b> Deeply passionate about PC hardware architecture. I enjoy analyzing component performance, system building, and understanding hardware-software integration.
   <br>
-  💡 <b>My Goal:</b> To merge my knowledge of hardware with software to build cool things.
+  💡 <b>Objective:</b> To seamlessly merge my hardware knowledge with software development skills to build efficient and innovative projects.
 </div>
 
 ---
 
-### 🎯 My Interests & Hobbies (اهتماماتي ومكاني المفضل)
-* 🧠 **Tech & Logic:** (اكتب هنا أي حاجة بتتعلمها أو بتحب تفهمها في التكنولوجيا)
-* 🎨 **Design & Creativity:** Playing around with **Photoshop** and digital art.
-* 📺 **Anime:** Huge fan of deep, psychological anime (like *Classroom of the Elite*).
-* 🕹️ **[مكان فاضي لاهتمام جديد]:** (اكتب اللي يعجبك هنا)
-* 🚀 **[مكان فاضي لاهتمام كمان]:** (اكتب اللي يعجبك هنا)
+### 🎯 Interests & Hobbies
+* 🧠 **Tech & Logic:** Exploring algorithms, problem-solving, and emerging technologies.
+* 🎨 **Design & Creativity:** Creating digital art and experimenting with **Photoshop**.
+* 📺 **Media & Narrative:** Enthusiast of deep, psychological, and thriller storylines.
+* 🕹️ **[Your Interest Here]:** * 🚀 **[Your Interest Here]:** ---
 
----
-
-### 🛠️ Languages & Tools (أدواتي اللي بتعلمها)
+### 🛠️ Languages & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,github,vscode,photoshop,windows&theme=dark" alt="My Skills" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,github,vscode,photoshop,windows,linux&theme=dark" alt="My Skills" />
+  <br>
 </div>
 
 ---
 
-### 📊 My GitHub Journey
+### 📊 GitHub Analytics
 <div align="center">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=mohamed-hisham-swidan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-hisham-swidan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <br>
 </div>
 
 ---
 
 <div align="center">
+  <br>
   <i>"I don't just want to use technology; I want to understand how it breathes."</i>
+  <br>
 </div>
