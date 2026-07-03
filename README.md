@@ -111,7 +111,7 @@ I'm a **15-year-old tech maniac from Egypt** who doesn't just *use* technology â
 ## ðŸš€ Featured Project
 
 <a href="https://github.com/mohamed-hisham-swidan/HardWorkers">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-hisham-swidan&repo=HardWorkers&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35" />
+  <img src="pin.svg" alt="HardWorkers repo card" />
 </a>
 
 <br/><br/>
@@ -120,7 +120,7 @@ I'm a **15-year-old tech maniac from Egypt** who doesn't just *use* technology â
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamed-hisham-swidan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=C9D1D9" width="50%"/>
+<img src="stats.svg" alt="GitHub stats card" width="50%"/>
 
 </div>
 
