@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 &nbsp;
+<a href="https://www.reddit.com/user/Warm-Inside-4108">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+</a>
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=mohamed-hisham-swidan&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
