@@ -2,8 +2,8 @@ name: Generate GitHub Stats Card
 
 on:
   schedule:
-    - cron: '0 0 * * *'  
-  workflow_dispatch:        
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   generate-stats:
@@ -14,13 +14,28 @@ jobs:
 
       - name: Generate stats card
         run: |
-          curl "https://github-readme-stats.vercel.app/api?username=mohamed-hisham-swidan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=C9D1D9" -o stats.svg
-          curl "https://github-readme-stats.vercel.app/api/pin/?username=mohamed-hisham-swidan&repo=HardWorkers&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35" -o pin.svg
+          curl -f -sS "https://github-readme-stats.vercel.app/api?username=mohamed-hisham-swidan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=C9D1D9" -o stats.svg
+          curl -f -sS "https://github-readme-stats.vercel.app/api/pin/?username=mohamed-hisham-swidan&repo=HardWorkers&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35" -o pin.svg
+
+      - name: Verify files are valid SVGs
+        run: |
+          for f in stats.svg pin.svg; do
+            if [ ! -s "$f" ]; then
+              echo "❌ $f فاضي أو مش موجود"
+              exit 1
+            fi
+            if ! head -c 100 "$f" | grep -q "<svg"; then
+              echo "❌ $f مش SVG صحيح — المحتوى:"
+              cat "$f"
+              exit 1
+            fi
+            echo "✅ $f سليم"
+          done
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add stats.svg pin.svg
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update stats cards"
+          git diff --staged --quiet || git commit -m "Update stats cards"
           git push
