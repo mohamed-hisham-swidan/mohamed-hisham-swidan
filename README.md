@@ -108,11 +108,6 @@ I'm a **15-year-old tech maniac from Egypt** who doesn't just *use* technology â
 
 <br/>
 
-## ðŸš€ Featured Project
-
-<a href="https://github.com/mohamed-hisham-swidan/HardWorkers">
-  <img src="pin.svg" alt="HardWorkers repo card" />
-</a>
 
 <br/><br/>
 
