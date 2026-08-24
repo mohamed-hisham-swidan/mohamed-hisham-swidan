@@ -111,15 +111,7 @@ I'm a **15-year-old tech maniac from Egypt** who doesn't just *use* technology �
 
 <br/><br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="stats.svg" alt="GitHub stats card" width="50%"/>
-
-</div>
-
-<br/>
 
 ## 🧠 Facts About onx
 
