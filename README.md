@@ -80,7 +80,7 @@ More details will be published as the project develops.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square)
+
 
 **Systems & Tools**
 
