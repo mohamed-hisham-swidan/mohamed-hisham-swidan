@@ -87,7 +87,7 @@ More details will be published as the project develops.
 ![CachyOS](https://img.shields.io/badge/CachyOS-1793D1?style=flat-square&logo=cachyos&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Herdr](https://img.shields.io/badge/Herdr-111827?style=flat-square)
+![Herdr](https://img.shields.io/badge/Herdr-111827?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Interests**
