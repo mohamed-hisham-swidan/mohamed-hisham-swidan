@@ -84,7 +84,7 @@ More details will be published as the project develops.
 
 **Systems & Tools**
 
-![CachyOS](https://img.shields.io/badge/CachyOS-1793D1?style=flat-square&logo=linux&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-1793D1?style=flat-square&logo=cachyos&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
